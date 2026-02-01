@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.6.1'''
-FreeSpaceSearch = '''271780'''
+FreeSpaceSearch = '''272400'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -7043,8 +7043,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/3/maps/0/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank3.pallet town.3-0'''
+Image = '''data.maps.banks/0/maps/0/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank0.Celadon Dept..0-0'''
 
 #################################
 [[TableGroup]]
