@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.6.1'''
-FreeSpaceSearch = '''392480'''
+FreeSpaceSearch = '''392AC0'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
